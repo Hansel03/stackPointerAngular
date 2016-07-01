@@ -8,6 +8,6 @@ MainController.$inject = [];
 function MainController() {
    var vm = this;
    
-   vm.variable = "Hola mundo";
+   vm.variable = "Bienvenido al inicio";
    
 }
